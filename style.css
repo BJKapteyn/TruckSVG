@@ -1,39 +1,6 @@
-#seat {
-    margin: auto;
-    width: 50%;
-}
-
-#part5 {
+.chairPiece:hover>* {
+    fill:rgb(142, 255, 148) !important;
     cursor: pointer;
-}
-
-#part5:hover {
-    color: rgba(0,0,0,0.4);
-    background: rgba(0,0,0,0.4);
-}
-g path:hover {
-    fill: green;
-    filter: hue-rotate(90deg);
-
-}
-
-#chair5 path:hover, chair5 g path:hover {
-    fill: red !important;
-    filter: grayscale(50%) hue-rotate(90deg) sepia(1);
-}
-#path1576:hover {
-    fill: green;
-    filter: brightness(100%) blur(50%);
-}
-
-g:hover {
-    fill: green;
-    filter: brightness(100%) blur(50%);
-}
-
-.chairPiece:hover {
-    fill: green;
-    filter: brightness(100%) blur(50%);
 }
 
 #backgroundFade {
@@ -48,12 +15,7 @@ g:hover {
     z-index: 10000;
 }
 
-path:hover {
-    fill: rgba(10, 10 ,10 .4);
-    cursor: pointer;
-    filter: brightness(100%) blur(50%);
 
-}
 
 #content {
     background-color: white;
