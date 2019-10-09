@@ -1,7 +1,12 @@
-<svg class="shogun-image" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="Kenworth702" width="750" height="650" viewBox="0 0 750 650" sodipodi:docname="seatimagedit1.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+<svg style="max-width:750px; max-height:650px; width:100%" class="shogun-image" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="Kenworth702" width="750" height="650" viewBox="0 0 750 650" sodipodi:docname="seatimagedit1.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
     <defs>
         <style type="text/css">
-            .chairPiece:hover&gt;*{fill:rgb(142, 255, 148)!important;cursor:pointer}
+            .chairPiece:hover&gt;*{
+            fill:rgb(142, 255, 148)!important;
+            cursor:pointer;
+            max-width:750px;
+            max-height: 650px;
+            width: 100%}
         </style>
     </defs>
     <a href="https://gramag.com/content/SP11250-KW-highback-frame.pdf" target="_blank">
