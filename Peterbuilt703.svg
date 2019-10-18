@@ -17,7 +17,13 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="Peterbuilt703.svg">
   <defs
-     id="defs2" />
+     id="defs2" >
+     <style
+       type="text/css"
+       id="style2">
+         .chairPiece:hover&gt;*{fill:rgb(142, 255, 148)!important;cursor:pointer;max-width:750px;max-height:650px;width:100%}
+      </style>
+     </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
