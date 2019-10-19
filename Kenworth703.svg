@@ -14,6 +14,7 @@
    <defs id="defs2">
       <style type="text/css" id="style2">
          .chairPiece:hover&gt;*{fill:rgb(142, 255, 148)!important;cursor:pointer;max-width:750px;max-height:650px;width:100%}
+         .chairPiece:active&gt;*{fill:green!important;}
       </style>
    </defs>
    <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="3.6450518" inkscape:cx="1227.6627" inkscape:cy="1934.6472" inkscape:document-units="mm" inkscape:current-layer="layer1" showgrid="false" inkscape:object-nodes="false" inkscape:snap-others="false" inkscape:window-width="1920" inkscape:window-height="1001" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1"/>

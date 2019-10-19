@@ -3,6 +3,7 @@
    <defs id="defs9535">
       <style type="text/css" id="style3">
          .chairPiece:hover&gt;*{fill:rgb(142, 255, 148)!important;cursor:pointer;max-width:750px;max-height:650px;width:100%}
+         .chairPiece:active&gt;*{fill:green!important;}
       </style>
    </defs>
    <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.7" inkscape:cx="652.96838" inkscape:cy="552.71009" inkscape:document-units="mm" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1920" inkscape:window-height="1001" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:snap-others="false" inkscape:object-nodes="false" inkscape:snap-nodes="false"/>

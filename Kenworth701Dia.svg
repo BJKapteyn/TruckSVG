@@ -35,6 +35,7 @@
        type="text/css"
        id="style2">
          .chairPiece:hover&gt;*{fill:rgb(142, 255, 148)!important;cursor:pointer;max-width:750px;max-height:650px;width:100%}
+         .chairPiece:active&gt;*{fill:green!important;}
       </style>
   </defs>
   <sodipodi:namedview
