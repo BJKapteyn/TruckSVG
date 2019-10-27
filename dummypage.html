@@ -4,11 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link src="style.css" type="text/css" rel="stylesheet">
     <title>Document</title>
 </head>
 <body>
     <div style="height:650px">
-        <iframe style="max-width: 650px; max-height: 750px; width: 100%; height: 100%; border: 0" src="chairxmledit.svg"></iframe>
+        <iframe id="Kenworth703" style="max-width: 650px; max-height: 750px; width: 100%; height: 100%; border: 0" src="Kenworth703.svg"></iframe>
     </div>
+    
+    <script>
+        let k703Iframe = document.getElementById('Kenworth703');
+        let inside = k703Iframe.contentWindow.getElementById('Kenworth70336')
+
+        function modal(iframeElement) {
+            iframeElement.style.display = 'block';
+        }
+    </script>
 </body>
 </html>
