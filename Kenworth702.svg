@@ -11,8 +11,8 @@
    class="shogun-image"
    version="1.1"
    id="Kenworth702"
-   width="750"
-   height="650"
+   width="750mm"
+   height="650mm"
    viewBox="0 0 750 650"
    sodipodi:docname="Kenworth702.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
@@ -57,9 +57,8 @@
     <style
        type="text/css"
        id="style2">
-       .chairPiece:hover g path {fill:rgba(0, 0, 0, 0.8)!important;}
-         .chairPiece:hover&gt;*{fill:rgb(142, 255, 148)!important;cursor:pointer;max-width:750px;max-height:650px;width:100%}.chairPiece:active&gt;*{fill:green!important}
-      </style>
+        .chairPiece:hover g path {fill:rgba(0, 0, 0, 0.8)!important;}
+         .chairPiece:hover&gt;*{fill:rgb(142, 255, 148)!important;cursor:pointer;max-width:750px;max-height:650px;width:100%}.chairPiece:active&gt;*{fill:green!important} </style>
   </defs>
   <a
      href="https://gramag.com/content/pac-sp11897-db-pcn7477.pdf"
