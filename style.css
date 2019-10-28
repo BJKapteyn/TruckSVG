@@ -30,7 +30,7 @@ svg {
     to {top:0; opacity:1}
   }
   
-  .modal-content {
+  .contactGramag {
     position: relative;
     background-color: #fefefe;
     margin: auto;
@@ -44,7 +44,7 @@ svg {
     animation-duration: 0.4s
   }
 
-  .modal {
+  .modalWindow {
     display: none; 
     position: fixed; 
     z-index: 1; 
