@@ -12,6 +12,8 @@
       </rdf:RDF>
    </metadata>
    <defs id="defs2">
+      <head>
+      </head>
       <style type="text/css" id="style2">
         .chairPiece:hover g path {fill:rgba(0, 0, 0, 0.8)!important;}
          .chairPiece:hover&gt;*{fill:rgb(142, 255, 148)!important;cursor:pointer;max-width:750px;max-height:650px;width:100%}.chairPiece:active&gt;*{fill:green!important}
