@@ -2115,12 +2115,7 @@
        id="path2199"
        inkscape:connector-curvature="0"
        transform="matrix(0.26458333,0,0,0.26458333,-82.182221,24.843322)" />
-    <a
-       href=""
-       class="chairLink"
-       target="_blank"
-       id="a484"
-       sodipodi:insensitive="true">
+
       <g
          class="chairPiece"
          id="chairPart30P701"
@@ -2777,7 +2772,6 @@
            d="m 280.17964,317.6645 c -1.30274,-0.59164 -2.03378,-1.7536 -2.50629,-3.98363 -0.49403,-2.33159 -0.48535,-7.19007 0.0159,-8.87781 0.6662,-2.24334 2.44529,-3.83035 4.29394,-3.83035 2.68916,0 3.70063,2.26283 3.72514,8.33376 0.0226,5.60193 -0.81758,7.95507 -3.06306,8.57875 -1.20548,0.33482 -1.25137,0.33071 -2.46558,-0.22072 z"
            style="opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.00394591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
-    </a>
     <path
        style="opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.00098648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d=""
