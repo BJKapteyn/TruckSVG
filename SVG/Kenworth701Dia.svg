@@ -1,3 +1,21 @@
+<!--
+   All elements are a group (<g>) element wrapped in a link (<a>) tag.
+
+   Styling is done inline to avoid cross-site scripting errors.
+      -size is defined in the 'style' attribute of the main <svg> tag.
+      -hover effects are defined in the <style> tag which is inside the <defs> tag below.
+
+   Naming Scheme:
+      -The <a> tags contain a link to the pdf corresponding to the part the user clicks, and are named as followed:
+         -class - "chairLink" - no styling for this class as of 2/3/2020
+         -id - it is random and not targeted
+
+      -The nested <g> tag is named as follows:
+         -class - "chairPiece" which is targeted in the <defs> section for hover effects.
+         -id - "chairPart" + chair part number + first letter of company name + model number of the chair.
+            Example: Part number 4 of the Kenworth 702 would be labled "chairPart4K702"
+-->
+
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
