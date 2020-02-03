@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+   All elements are a group (<g>) element wrapped in a link (<a>) tag.
+
+   Styling is done inline to avoid cross-site scripting errors.
+      -size is defined in the 'style' attribute of the main <svg> tag.
+      -hover effects are defined in the <style> tag which is inside the <defs> tag below.
+
+   Naming Scheme:
+      -The <a> tags contain a link to the pdf corresponding to the part the user clicks, and are named as followed:
+         -class - "chairLink" - no styling for this class as of 2/3/2020
+         -id - it is random and not targeted
+
+      -The nested <g> tag is named as follows:
+         -class - "chairPiece" which is targeted in the <defs> section for hover effects.
+         -id - "chairPart" + chair part number + first letter of company name + model number of the chair.
+            Example: Part number 4 of the Kenworth 702 would be labled "chairPart4K702"
+-->
 <svg style="max-width:750px;max-height:650px; width:100%" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="350.54233mm" height="331.41266mm" viewBox="0 0 350.54233 331.41266" version="1.1" id="svg9541" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="KenworthStatic.svg">
    <defs id="defs9535">
       <style type="text/css" id="style3">
