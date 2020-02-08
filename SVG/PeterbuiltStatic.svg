@@ -11,10 +11,12 @@
          -class - "chairLink" - no styling for this class as of 2/3/2020
          -id - it is random and not targeted
 
-      -The nested <g> tag is named as follows:
+      -The <g> tag nested inside the <a> tag is named as follows:
          -class - "chairPiece" which is targeted in the <defs> section for hover effects.
          -id - "chairPart" + chair part number + first letter of company name + model number of the chair.
             Example: Part number 4 of the Kenworth 702 would be labled "chairPart4K702"
+
+   
 -->
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
