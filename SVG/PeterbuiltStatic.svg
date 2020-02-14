@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!--
-   All elements are a group (<g>) element wrapped in a link (<a>) tag.
+   All elements are paths nested in a group 'g' tag wrapped in a link 'a' tag.
 
    Styling is done inline to avoid cross-site scripting errors.
       -size is defined in the 'style' attribute of the main <svg> tag.
@@ -19,6 +19,7 @@
    
 -->
 <svg
+   type="image/svg+xml"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -498,7 +499,7 @@
        inkscape:connector-curvature="0"
        transform="matrix(0.26458333,0,0,0.26458333,-63.72305,-31.82451)" />
     <a
-       href="https://gramag.com/content/SP11251-KW-midback-frame.pdf"
+       href="https://gramag.com/content/updatedparts/pac-sp11251-ab-pcn7509.pdf"
        class="chairLink"
        target="_blank"
        id="a124">
@@ -831,7 +832,7 @@
       </g>
     </a>
     <a
-       href="https://gramag.com/content/pac-sp11814-bb-pcn7376_7377.pdf"
+       href="https://gramag.com/content/updatedparts/PAC-SP11814-CA-PCN7496.pdf"
        class="chairLink"
        target="_blank"
        id="a148">
@@ -911,7 +912,7 @@
       </g>
     </a>
     <a
-       href="https://gramag.com/content/pac-sp11996-aa-pcn7395.pdf"
+       href="https://gramag.com/content/updatedparts/PAC-SP11996-BA-PCN7496.pdf"
        class="chairLink"
        target="_blank"
        id="a155">
@@ -1777,7 +1778,7 @@
       </g>
     </a>
     <a
-       href="https://gramag.com/content/pac-sp11924-aa-pcn7404.pdf"
+       href="https://gramag.com/content/updatedparts/pac-sp11924-ab-pcn7509.pdf"
        class="chairLink"
        target="_blank"
        id="a307">
@@ -1809,7 +1810,7 @@
       </g>
     </a>
     <a
-       href="https://gramag.com/content/pac-sp11923-aa-pcn7404.pdf"
+       href="https://gramag.com/content/updatedparts/pac-sp11923-ab-pcn7509.pdf"
        class="chairLink"
        target="_blank"
        id="a324">
@@ -3742,7 +3743,7 @@
       </g>
     </a>
     <a
-       href="https://gramag.com/content/SP11246-KW-midback-foam.pdf"
+       href="https://gramag.com/content/updatedparts/pac-sp11246-ab-pcn7509.pdf"
        class="chairLink"
        target="_blank"
        id="a724">
